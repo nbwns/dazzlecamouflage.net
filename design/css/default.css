@@ -1,0 +1,186 @@
+﻿body
+{
+    background: #000000 url('../img/pkdc_background.gif');
+    font-family: Arial;
+    font-size: 14px;
+    color: #EAEAEA;
+}
+
+a
+{
+    color: #479F53;
+    text-decoration: none;
+}
+
+a img
+{
+    text-decoration: none;
+}
+
+h1
+{
+    font-family: Georgia;
+    font-size: 18px;
+    font-style: normal;
+}
+
+h2
+{
+    font-family: Georgia;
+    font-size: 17px;
+    font-style: normal;
+}
+
+h3
+{
+    font-family: Georgia;
+    font-size: 16px;
+    font-style: normal;
+}
+
+hr
+{
+    color: #202020;
+    background-color: #202020;
+    height: 1px;
+    border: 0;
+    width: 80%;
+    margin-bottom: 5px;
+}
+
+.italic
+{
+    font-style: italic;
+}
+
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: center;
+}
+
+#wrapper
+{
+    width: 940px;
+    margin: 0 auto;
+}
+
+#header
+{
+}
+
+#main
+{
+    background: #404040;
+    padding: 8px 8px 8px 8px;
+}
+
+#press
+{
+    width: 620px;
+    float: right;
+}
+
+#cover
+{
+    width: 300px;
+    float: left;
+    padding-top: 10px;
+}
+
+#coverImage p
+{
+    position: absolute;
+    margin: 0px;
+    margin-top: -26px;
+    z-index: 2;
+    background-color: #555555;
+    color: #ffffff;
+    width: 300px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: none;
+    clear: none;
+}
+
+
+#player
+{
+    width: 100%;
+    float: left;
+    padding: Opx 0px 0px 0px;
+}
+
+.topbox
+{
+    vertical-align: top;
+}
+
+#buy
+{
+    width: 620px;
+    float: right;
+}
+
+#digital
+{
+    width: 50%;
+    float: left;
+}
+
+#physical
+{
+    width: 50%;
+    float: right;
+}
+
+#buybutton
+{
+}
+
+.trackList li
+{
+    margin-top: 5px;
+}
+
+.linksList
+{
+    margin-left: 16px;
+}
+
+
+#upFooter
+{
+    font-family: Georgia;
+    background: #202020;
+    text-align: right;
+    padding: 5px 5px 5px 5px;
+    font-size: 18px;
+}
+
+#moreDiv
+{
+    background: #202020;
+    padding: 8px 8px 8px 8px;
+    display: none;
+}
+
+#footer
+{
+    font-family: Georgia;
+    background: #000000;
+    text-align: right;
+    padding: 5px 5px 5px 5px;
+    font-size: 18px;
+}
+
+.clr
+{
+    clear: both;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+}
